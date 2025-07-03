@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Susovan Das</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 
- <p>Hey there! I'm a Junior Backend Developer passionate about building scalable and production-ready APIs. I specialize in MongoDB, Express.js, React.js, and Node.js, with a strong focus on writing clean, maintainable code. Currently, I'm diving deeper into industry-level best practices to build high-quality applications. Always learning and exploring new technologies to enhance my skills!</p>
 
 
 ## 🌐 Socials:
